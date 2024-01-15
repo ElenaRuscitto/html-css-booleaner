@@ -8,9 +8,10 @@ box-sizing: border-box;
 header{
   background-color:#5c9ff5;
   padding-top: 40px;
-  background-image:url(../img/Screenshot\ 2024-01-15\ 143042.png);
+  background-image:url(../img/pattern.png);
   background-repeat: repeat;
-  background-size: contain;
+  background-position: top;
+  height: 100px;
 }
 
 #logo{
@@ -23,6 +24,10 @@ body{
 }
 
 /* MAIN  */
+
+main{
+  margin: 5px 20px;
+} 
 .autore{
   color: lightslategray;
   margin-top: 5px;
@@ -43,9 +48,49 @@ figcaption{
 } 
 
 .paragrafo{
-  margin-top: 10px;
+  margin: 10px 5px;
+  mar
 } 
 
 .evidenziatura{
   background-color: yellow;
+} 
+
+table{
+  text-align: left;
+  border-collapse: collapse;
+} 
+
+thead{
+  background-color: #5c9ff5;
+  color: white;
+  width: 300px;
+} 
+
+table .first{
+  width: 300px;
+} 
+
+.colore-scuro{
+  background-color: #9fbfe8;
+} 
+
+/* footer */
+.conteiner-monitor{
+  background-image: url(../img/monitor.jpg);
+  width: 300px;
+  height: 200px;
+  margin-top: 10px;
+} 
+.conteiner-graph{
+  background-image: url(../img/graph.jpg);
+  width: 300px;
+  height: 200px;
+  margin-top: 10px;
+}  
+
+.descrizione-img{
+  color: white;
+  margin-left: 5px;
+  margin-top: 10px;
 } 
