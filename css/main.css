@@ -25,4 +25,19 @@ font-family: 'Playfair Display', serif;
 /* MAIN  */
 .autore{
   color: lightslategray;
+  margin-top: 5px;
+  margin-bottom: 15px;
+} 
+
+#special{
+  color: rgb(48, 205, 223);
+} 
+
+.foto-tim{
+  background-size: 400px;
+} 
+
+figcaption{
+  font-size: .5em;
+  color: black;
 } 
