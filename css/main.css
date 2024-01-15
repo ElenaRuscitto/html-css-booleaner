@@ -2,8 +2,13 @@
 header{
   background-color:#5c9ff5;
   padding-top: 40px;
+  background-image:url(../img/Screenshot\ 2024-01-15\ 143042.png);
+  background-repeat: repeat;
+  background-size: contain;
+
 }
 
 #logo{
-    width: 150px;
-  }
+   width: 150px;
+   margin-bottom: 10px;
+}
