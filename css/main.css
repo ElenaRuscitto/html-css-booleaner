@@ -19,7 +19,7 @@ header{
 }
 
 body{
-font-family: 'Playfair Display', serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 /* MAIN  */
@@ -40,4 +40,12 @@ font-family: 'Playfair Display', serif;
 figcaption{
   font-size: .5em;
   color: black;
+} 
+
+.paragrafo{
+  margin-top: 10px;
+} 
+
+.evidenziatura{
+  background-color: yellow;
 } 
